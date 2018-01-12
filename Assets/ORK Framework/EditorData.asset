@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -733530270, guid: f4979b3083d349140bb14b6ec7fc999a, type: 3}
+  m_Name: EditorData
+  m_EditorClassIdentifier: 
+  lastProject: {fileID: 11400000, guid: 9e850997be6da964fa2b6e0de6aaa06f, type: 2}
+  section: 2
+  subSection: 5
+  tabIndex: 0
+  scrollY: 0
+  helpDrag: 220
+  subSectionDrag: 200
+  tabListDrag: 300
+  formulaDrag: 299
+  aiDrag: 400
+  eventDrag: 400
+  guiEditorDrag: 500
+  updateEvents: 1
+  eventUpdateFolder: 
+  updatePrefabs: 0
+  updateScenes: 0
+  sceneUpdate: 
+  eventAsset:
+  - {fileID: 11400000, guid: ac0dd830b9027154ca5531609cc5c4fe, type: 2}
+  - {fileID: 11400000, guid: 3d4401a251164ba47ac7211ec7cbdaf5, type: 2}
+  gameEventAsset:
+  - {fileID: 11400000, guid: ac0dd830b9027154ca5531609cc5c4fe, type: 2}
+  - {fileID: 11400000, guid: 3d4401a251164ba47ac7211ec7cbdaf5, type: 2}
+  moveEventAsset: []
+  battleEventAsset: []
+  battleStartEventAsset: []
+  battleEndEventAsset: []
+  phaseChangeEventAsset: []
+  variablesDefined: []
+  variablesEditor: []
+  variablesEvent: []
+  variablesScene: []
