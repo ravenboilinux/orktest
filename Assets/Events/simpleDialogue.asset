@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: -1501101930, guid: f4979b3083d349140bb14b6ec7fc999a, type: 3}
   m_Name: simpleDialogue
   m_EditorClassIdentifier: 
-  time: 1/12/2018 12:31:41 PM
+  time: 1/12/2018 8:15:02 PM
   version: 2.14.2
   data:
     name: gameEvent
@@ -31,7 +31,7 @@ MonoBehaviour:
       useTitle=\"False\" outputToConsole=\"False\" useAudio=\"False\" stopAudio=\"True\"
       onSpeaker=\"False\" allowCancel=\"False\" blockAccept=\"False\" afterAudio=\"False\"
       wait=\"False\" />\n\t\t\t\t\t<_floatarrays>\n\t\t\t\t\t\t<posOff 0 0 />\n\t\t\t\t\t</_floatarrays>\n\t\t\t\t\t<_string>\n\t\t\t\t\t\t<posChildName><![CDATA[]]></posChildName>\n\t\t\t\t\t\t<childName><![CDATA[]]></childName>\n\t\t\t\t\t</_string>\n\t\t\t\t\t<_stringarrays>\n\t\t\t\t\t\t<message>\n\t\t\t\t\t\t\t<0><![CDATA[Hi,
-      this is a simple dialogue!]]></0>\n\t\t\t\t\t\t</message>\n\t\t\t\t\t</_stringarrays>\n\t\t\t\t</dialogue>\n\t\t\t</0>\n\t\t</step>\n\t</_subarrays>\n</gameEvent>\n"
+      this is a simple dialogue!]]></0>\n\t\t\t\t\t\t\t<1><![CDATA[]]></1>\n\t\t\t\t\t\t</message>\n\t\t\t\t\t</_stringarrays>\n\t\t\t\t</dialogue>\n\t\t\t</0>\n\t\t</step>\n\t</_subarrays>\n</gameEvent>\n"
     lookUp:
       textures: []
       audioClips: []
